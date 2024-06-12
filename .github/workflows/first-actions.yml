@@ -1,5 +1,5 @@
 name: My First GitHub Actions
-#My first jenkins pipeline
+
 on: [push]
 
 jobs:
